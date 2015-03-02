@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kata.Romanize", "Kata.Romanize\Kata.Romanize.fsproj", "{7ABA6278-C08D-414C-BDC2-157175F05821}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kata.Romanize.Tests", "Kata.Romanize.Tests\Kata.Romanize.Tests.fsproj", "{D223D950-BA7E-4B36-9522-65359B40D875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ABA6278-C08D-414C-BDC2-157175F05821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABA6278-C08D-414C-BDC2-157175F05821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABA6278-C08D-414C-BDC2-157175F05821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABA6278-C08D-414C-BDC2-157175F05821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D223D950-BA7E-4B36-9522-65359B40D875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D223D950-BA7E-4B36-9522-65359B40D875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D223D950-BA7E-4B36-9522-65359B40D875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D223D950-BA7E-4B36-9522-65359B40D875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
