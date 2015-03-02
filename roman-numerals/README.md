@@ -16,6 +16,7 @@ The Romans wrote their numbers using letters; specifically the letters "I, V, X,
 We have provided a reference table of the Roman numerals that you will have to use and their arabic number equivalents.
 
 | Numeral | Number |
+| ------- | ------ |
 | I       | 1      |
 | V       | 5      |
 | X       | 10     |
