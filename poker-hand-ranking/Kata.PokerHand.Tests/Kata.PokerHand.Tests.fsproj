@@ -79,7 +79,7 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PokerHand\Kata.PokerHand.fsproj">
+    <ProjectReference Include="..\Kata.PokerHand\Kata.PokerHand.fsproj">
       <Name>Kata.PokerHand</Name>
       <Project>{ef00cf7f-3cc2-499b-b251-0ead46ea90b7}</Project>
       <Private>True</Private>

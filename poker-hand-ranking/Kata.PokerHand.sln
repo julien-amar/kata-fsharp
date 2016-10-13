@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kata.PokerHand", "PokerHand\Kata.PokerHand.fsproj", "{EF00CF7F-3CC2-499B-B251-0EAD46EA90B7}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kata.PokerHand", "Kata.PokerHand\Kata.PokerHand.fsproj", "{EF00CF7F-3CC2-499B-B251-0EAD46EA90B7}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kata.PokerHand.Tests", "PokerHand.Tests\Kata.PokerHand.Tests.fsproj", "{66DDABBE-B360-4B7F-B315-50D241D6A4F0}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kata.PokerHand.Tests", "Kata.PokerHand.Tests\Kata.PokerHand.Tests.fsproj", "{66DDABBE-B360-4B7F-B315-50D241D6A4F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

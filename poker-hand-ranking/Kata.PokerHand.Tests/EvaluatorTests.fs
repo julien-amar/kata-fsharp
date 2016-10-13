@@ -31,7 +31,7 @@ type EvaluatorTests() =
         [(Two, Diamonds); (Two, Clubs);(Ace, Diamonds); (Ace, Clubs); (Queen, Diamonds)]
         |> Shuffle
         |> Evaluator.Evaluate
-        |> should equal "Two pairs (Ace, Two)"
+        |> should equal "Two pairs (Two, Ace)"
 
     [<Test>] member this.HandContainsThreeOfKind() =
         [(Two, Diamonds); (Two, Clubs); (Two, Spades); (Ace, Clubs); (Queen, Diamonds)]
